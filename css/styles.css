@@ -827,6 +827,7 @@ ul{
   align-items: center;
   justify-content: center;
   fill: transparent;
+  cursor: pointer;
 
 }
 .privacy-policy-link{
