@@ -799,11 +799,12 @@ ul{
  appearance: none;
  position:absolute;
 }
-
+/*
 .modal-form-checkbox:focus +.modal-form-own-checkbox{
   outline: 2px solid #404BBF;
+}*/
 
-}
+
 .modal-form-checkbox:checked +.container-for-svg{
   background-color:#404BBF;
   border: none;
@@ -816,8 +817,6 @@ ul{
   fill: var(--primary-background-color);
   border-color: var(--accent-color);
 }
-
-
 
 .modal-form-label-check{
   font-size: 12px;
