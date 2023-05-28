@@ -799,9 +799,7 @@ ul{
  appearance: none;
  position:absolute;
 }
-.modal-form-own-checkbox{
 
-}
 .modal-form-checkbox:focus +.modal-form-own-checkbox{
   outline: 2px solid #404BBF;
 
