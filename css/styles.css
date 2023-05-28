@@ -800,11 +800,6 @@ ul{
  position:absolute;
 }
 .modal-form-own-checkbox{
-  padding:3px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  border-radius: 2px;
-  cursor:pointer;
-  margin-right:8px;
 
 }
 .modal-form-checkbox:focus +.modal-form-own-checkbox{
