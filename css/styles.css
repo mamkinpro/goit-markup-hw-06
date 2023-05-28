@@ -211,9 +211,6 @@ body {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-.advantages-icons {
-
-}
 .advantages-header{
   font-weight: 500;
   font-size: 20px;
@@ -228,8 +225,6 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-
 
 .section-our-works{
   padding-bottom: 120px;
@@ -835,16 +830,16 @@ ul{
   display: flex;
   align-items:center;
   font-size: 12px;
-  line-height: 1.17px;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8E8F99;
 }
 .container-for-svg{
+  display: inline-flex;
   width:16px;
   height:16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
-  display: inline-flex;
   align-items: center;
   justify-content: center;
   fill: transparent;
